@@ -1,6 +1,6 @@
 # Meet the TinyLlama family
 
-TinyLlamas are a family of retro inspired computers designed and built by [Eivind Bohler](https://github.com/eivindbohler). <br>
+TinyLlamas are a family of retro-inspired computers designed and built by [Eivind Bohler](https://github.com/eivindbohler). <br>
 Each iteration is a variation built around the following principles:
 
 - Build A fully-fledged 486/Pentium-class PC in a tiny form factor
